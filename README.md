@@ -165,9 +165,7 @@ This project was built as a self-directed learning exercise to develop automatio
 - Using Git for version control and project documentation
 
 ---
-
 ## 📬 Contact
 
-**Your Name** — [LinkedIn]((https://www.linkedin.com/in/uddhav-rodge-1501b7274/)) · [GitHub]((https://github.com/urodge))
-
+**Uddhav Rodge** — LinkedIn · [GitHub](https://github
 *Built as a portfolio project while learning data engineering and automation.*
